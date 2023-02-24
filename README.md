@@ -7,3 +7,7 @@
 
 ## Infinite Series
 1. Madhava Series - [Wikipedia](https://en.wikipedia.org/wiki/Madhava_series)
+
+
+## Series Expansions
+1. Maclaurin Series Expansion - [Wolfram](https://mathworld.wolfram.com/MaclaurinSeries.html)
