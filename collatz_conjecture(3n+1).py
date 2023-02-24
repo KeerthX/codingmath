@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 def conj_collatz(n): #This functions gives the values of the collatz conjecture 
     while n!= 1:
-        print(n)
+        # print(n)
         if (n % 2 == 0):
             n = n //2
         else:
@@ -18,7 +18,7 @@ def plot_collatz(n): #This functions gives the plots of the collatz conjecture
     plt.plot(x, sequence)
     plt.show()
 
-n = 30 #Enter the number here 
+n = 27 #Enter the number here 
 conj_collatz(n)
 plot_collatz(n)
 
