@@ -9,6 +9,7 @@
 1. Madhava Series - [Wikipedia](https://en.wikipedia.org/wiki/Madhava_series)
 2. Fibonacci Series - [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
 3. Catalan Numbers - [Wikipedia](https://en.wikipedia.org/wiki/Catalan_number#:~:text=In%20combinatorial%20mathematics%2C%20the%20Catalan,Catalan%20(1814%E2%80%931894).)
+4. Lucas Numbers - [Wikipedia](https://en.wikipedia.org/wiki/Lucas_number)
 
 <hr>
 
