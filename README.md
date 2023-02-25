@@ -1,5 +1,15 @@
 # Coding Maths
 
+## Overview
+
+| Language  | IDE |
+|---|---|
+|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> |
+
+<hr>
+
+<hr>
+
 ## Conjectures
 1. Collatz Conjecture - [Wikipedia](https://en.wikipedia.org/wiki/Collatz_conjecture#:~:text=The%20Collatz%20conjecture%20is%20one,every%20positive%20integer%20into%201.)
 
