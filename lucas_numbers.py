@@ -1,5 +1,5 @@
 sequence = []
-#This gives the list of all fibonacci numbers upto the entered point 
+#This gives the list of all lucas numbers upto the entered point 
 def lucas(n):
     a = 2
     b = 1
@@ -11,7 +11,7 @@ def lucas(n):
         sequence.append(c)
     return sequence
 
-#This gives the fibonacci number at the point specified
+#This gives the lucas number at the point specified
 def nth_lucas(n):
     if n == 0:
         return 2
@@ -23,6 +23,6 @@ def nth_lucas(n):
     
 
 n = 11 #Enter the number 
-print(lucas(n)) #Prints list of fibonacci numbers
-print(nth_lucas(n)) #Prints the value of fibonacci number at that point 
+print(lucas(n)) #Prints list of lucas numbers
+print(nth_lucas(n)) #Prints the value of lucas number at that point 
         
