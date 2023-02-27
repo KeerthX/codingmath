@@ -18,7 +18,8 @@ def plot_collatz(n): #This functions gives the plots of the collatz conjecture
     plt.plot(x, sequence)
     plt.show()
 
-n =27  #Enter the number here 
+
 conj_collatz(n)
 plot_collatz(n)
+
 
