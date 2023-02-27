@@ -20,8 +20,6 @@ def nth_lucas(n):
     elif n > 1:
         return nth_lucas(n-1) + nth_lucas(n-2)
 
-    
-
 n = 11 #Enter the number 
 print(lucas(n)) #Prints list of lucas numbers
 print(nth_lucas(n)) #Prints the value of lucas number at that point 
