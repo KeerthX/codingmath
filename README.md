@@ -27,3 +27,6 @@
 1. Maclaurin Series Expansion - [Wolfram](https://mathworld.wolfram.com/MaclaurinSeries.html)
 
 <hr>
+
+## Numerical Methods
+1. Netwon Raphson Method - [Science Direct](https://www.sciencedirect.com/topics/mathematics/newton-raphson-method#:~:text=The%20Newton%2DRaphson%20method%20begins,0%20crosses%20the%20x%2Daxis.)
