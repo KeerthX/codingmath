@@ -4,7 +4,7 @@ def fact(n): #Defining factorial function for the catalan formula
     else:
         return n * fact(n-1)
 
-def nth_catalan(n): #gives the nth catalan number
+def nth_catalan(n): #gives the nth catalan number   
     if n == 0:
         return 1 
     else:

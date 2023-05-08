@@ -19,4 +19,4 @@ def newtonraphson(f,x0,acc=1e-5):
     
 
 x = symbols('x')
-print(newtonraphson(f= x**2-51,x0=7))
+print(newtonraphson(f= x**3-64,x0=7))

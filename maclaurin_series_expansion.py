@@ -11,7 +11,7 @@ def maclaurin_series(f,n):
     result = "+".join([str(series[i]) + " x^" + str(i) for i in range(n)])
     return result
 
-f = sp.sin(x) #Use any function within the sympy package for this 
+f = sp.cos(x) #Use any function within the sympy package for this 
 z = maclaurin_series(f,10) #Define upto which point u want to find the maclaurin series
 print(z) #Print the series
 
